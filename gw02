@@ -1,0 +1,3 @@
+key "1d5fe1cfcd07a73b800a31981a81096485c57823cbc5cd9005b9fd53797b67db";
+remote ipv4 "gw02.freifunk-fulda.de" port 10000;
+remote ipv6 "gw02.freifunk-fulda.de" port 10000;
