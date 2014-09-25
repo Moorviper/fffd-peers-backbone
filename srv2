@@ -1,3 +1,0 @@
-key "870bad76dff24131a85e5ec21cd85297b28c5244a184a26a05e34865afa58acb";
-remote ipv4 "fffd-srv2.freifunk-fulda.de" port 10000;
-remote ipv6 "fffd-srv2.freifunk-fulda.de" port 10000;
