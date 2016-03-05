@@ -1,3 +1,1 @@
 key "9a0ab40002a728ef6f7d485fa6a69d034a3616d7d65f54b49e6cb8cab19f84fa";
-remote ipv4 "srv1.fulda.freifunk.net" port 10000;
-remote ipv6 "srv1.fulda.freifunk.net" port 10000;
