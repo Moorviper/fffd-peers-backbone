@@ -1,0 +1,3 @@
+key "9e7e5e598295bb2e2c493d2d39f013ee76e0ce2147cec099b98e669d9a5103ae";
+remote "gw01.fulda.freifunk.net" port 10000;
+remote "gw01.fulda.freifunk.net" port 20000;
